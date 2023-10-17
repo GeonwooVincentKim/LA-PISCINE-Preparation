@@ -1,0 +1,38 @@
+1. 42 Berlin
+- W3C School
+- CS50 C programming lectures
+
+
+2. 42 Tokyo <최종 합격률 -> 22년 6월 기준 2.04%>
+- 합격률
+  = https://small-start-programming-school.com/42tokyo/reviews-3/
+
+- Dot Install
+  = https://dotinstall.com/lessons/basic_c
+
+- Paiza
+  = https://paiza.jp/works/c/primer
+
+- 一週間で身につくＣ言語の基本
+  = https://c-lang.sevendays-study.com/
+
+- 苦しんで覚えるＣ言語
+  = https://9cguide.appspot.com/
+
+
+3. 42 Seoul
+- 지옥에서 온 Git 생활코딩
+  = https://www.opentutorials.org/course/2708
+
+- 강좌: C언어 코딩 도장
+  = https://dojang.io/course/view.php?id=2
+
+- 씹어먹는 C언어 시작하기
+  = https://modoocode.com/231
+
+- 백준
+  = https://www.acmicpc.net/
+  = C언어로 실버 1까지 풀어보기
+
+
+
